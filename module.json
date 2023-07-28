@@ -26,6 +26,17 @@
   "esmodules": [
     "scripts/terradevastada.js"
   ],
+
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json",
+        "compatibility": {}
+      }
+    ]
+  },  
   
   "languages": []
   
