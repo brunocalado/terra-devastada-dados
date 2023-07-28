@@ -1,0 +1,32 @@
+{
+  "id": "terra-devastada-dados",
+  "title": "Terra Devastada - Dados",
+  "description": "Dados para o RPG Terra Devastada",
+  
+  "authors": [
+    {
+      "name": "Mestre Digital",
+      "url": "https://www.youtube.com/c/MestreDigital",
+      "flags": {}
+    }
+  ],
+  
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  
+  "url": "https://github.com/brunocalado/terra-devastada-dados",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/terra-devastada-dados/main/module.json",  
+  "download": "https://codeload.github.com/brunocalado/terra-devastada-dados/zip/main",
+  
+  "styles": [    
+  ],
+  "esmodules": [
+    "scripts/terradevastada.js"
+  ],
+  
+  "languages": []
+  
+}
