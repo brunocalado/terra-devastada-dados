@@ -13,6 +13,10 @@ Dados para jogar o RPG Terra Devastada. Esse RPG pode ser obtido no seguinte (li
 ## Exemplos 
 Você pode digitar no chat */r 3dz* e apertar enter. Isso vai rolar 3 dados para você.
 
+# Instalação Manual
+Se precisar o módulo manualmente, cole o manifesto abaixo na área adequada do seu Foundry VTT para instalar.
+https://raw.githubusercontent.com/brunocalado/terra-devastada-dados/main/module.json
+
 # License
 This module was created with the permission of Retropunk. Contact at (link)[https://retropunk.com.br/editora/contato/].
 
