@@ -17,6 +17,9 @@ Você pode digitar no chat */r 3dz* e apertar enter. Isso vai rolar 3 dados para
 Se precisar o módulo manualmente, cole o manifesto abaixo na área adequada do seu Foundry VTT para instalar.
 https://raw.githubusercontent.com/brunocalado/terra-devastada-dados/main/module.json
 
+# Arte
+A arte nos dados foi feita pelo Heber Maia. Metade homem, metade queijo.
+
 # License
 This module was created with the permission of Retropunk. Contact at (link)[https://retropunk.com.br/editora/contato/].
 
