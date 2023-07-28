@@ -1,6 +1,6 @@
 # Terra Devastada - Dados
 
-Dados para jogar o RPG Terra Devastada. Esse RPG pode ser obtido no seguinte (link)[https://retropunk.com.br/editora/roleplaying/terra_devastada_edicao_apocalipse].
+Dados para jogar o RPG Terra Devastada. Esse RPG pode ser obtido no seguinte [link](https://retropunk.com.br/editora/roleplaying/terra_devastada_edicao_apocalipse).
 
 # Como Usar
 1. Nas configurações do Dice so Nice você deve selecionar o dado Terra Devastada. 
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/brunocalado/terra-devastada-dados/main/module.
 A arte nos dados foi feita pelo Heber Maia. Metade homem, metade queijo.
 
 # License
-This module was created with the permission of Retropunk. Contact at (link)[https://retropunk.com.br/editora/contato/].
+This module was created with the permission of Retropunk. Contact at [link](https://retropunk.com.br/editora/contato/).
 
 # Mestre Digital
 About this module creator: https://sites.google.com/view/mestredigitalmodules
