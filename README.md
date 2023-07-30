@@ -16,7 +16,7 @@ Dados para jogar o RPG Terra Devastada. Esse RPG pode ser obtido no seguinte [li
 - Use */r 5dzx* para rolar cinco dados que quando sai 6 rola mais um.
 - Crie uma macro como a imagem abaixo, salve e compartilhe para seus jogadores terem fácil acesso.
 <p align="center">
-  <img width="500" src="docs/docs_macro.webp">
+  <img width="400" src="docs/docs_macro.webp">
 </p>
 
 ## Dica
