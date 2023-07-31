@@ -11,7 +11,7 @@
     }
   ],
   
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -37,6 +37,20 @@
       }
     ]
   },  
+
+  "packs": [
+    {
+      "label": "Macros - Terra Devastada",
+      "type": "Macro",
+      "name": "macros-terra-devastada",
+      "path": "packs/macros-terra-devastada",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
   
   "languages": []
   
