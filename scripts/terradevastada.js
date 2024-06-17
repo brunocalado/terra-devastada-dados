@@ -14,7 +14,7 @@ Hooks.on('diceSoNiceRollComplete', (chatMessageID) => {
         
         message.rolls[0].dice.forEach(dice => {            
             if(dice instanceof TerraDevastada){
-                let szRoll = true;
+                szRoll = true;
                 dice.results.forEach(res => {
                     switch(res.result){
                         case 2:
@@ -31,19 +31,25 @@ Hooks.on('diceSoNiceRollComplete', (chatMessageID) => {
             }
         });
         
-        
+        /*
         console.log('--------------------')
         console.log(success)
         console.log('--------------------')
+        */
         
-        /*
         if(szRoll){
+            ChatMessage.create({
+                user: game.user.id,
+                content: `<b>Sucessos</b> ${success}`,
+                speaker: ChatMessage.getSpeaker()
+            });    /*    
             ChatMessage.create({
                 content: `<b>Sucessos</b> ${success}`,
                 whisper: message.data.whisper,
                 blind: message.data.blind
             });
-        }*/
+            */
+        }
     }
 });
 

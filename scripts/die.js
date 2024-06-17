@@ -1,6 +1,7 @@
 const moduleName = 'terra-devastada-dados';
 
 export class TerraDevastada extends Die {
+  
   constructor(termData) {
     termData.faces=6;
     termData.custom=true;
@@ -14,6 +15,17 @@ export class TerraDevastada extends Die {
     ];
     super(termData);
   }
+  
+/*
+  static get defaultTermData() {
+    return {
+      number: 1,
+      faces: 6,
+      modifiers: ['x'],
+      options: { flavor: 'Terra Devastada' }
+    };
+  }
+/*
 
   /* -------------------------------------------- */
 
