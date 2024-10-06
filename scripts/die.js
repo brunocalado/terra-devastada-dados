@@ -1,6 +1,6 @@
 const moduleName = 'terra-devastada-dados';
 
-export class TerraDevastada extends Die {
+export class TerraDevastada extends foundry.dice.terms.Die {
   
   constructor(termData) {
     termData.faces=6;

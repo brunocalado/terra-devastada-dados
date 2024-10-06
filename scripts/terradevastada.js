@@ -58,7 +58,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
   // MASKS
   dice3d.addSystem({id:"terra-devastada", name:"Terra Devastada"}, false);
   dice3d.addDicePreset({
-    type:"d6",
+    type:"dz",
     system:"terra-devastada",
     labels:[
       'modules/' + moduleName + '/assets/faces/d1.webp', 
